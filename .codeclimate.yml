@@ -1,3 +1,5 @@
 plugins:
   phan:
     enabled: true
+exclude_patterns:
+- "placeholder" #having committed exclude patterns prevents the `test/` folder from being excluded by default
