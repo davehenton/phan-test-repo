@@ -1,0 +1,7 @@
+plugins:
+  phan:
+    enabled: true
+  structure:
+    enabled: false
+  duplication:
+    enabled: false
